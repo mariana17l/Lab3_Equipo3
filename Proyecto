@@ -1,0 +1,17 @@
+Paradox of Choice
+
+Paradox of Choice is a book by Barry Schwartz that explains that while conventional wisdom tells us that more choice leads to more freedom and more happiness, research shows that giving people many choices does not increase performance or satisfaction, and often leads to paralysis and dissatisfaction.
+Examples: 1). Fifty independent studies found a meaningful connection between choice and anxiety. 2). One Vanguard study showed that for every ten mutual funds added to a retirement plan, participation dropped by an additional 2%. (Schwartz, 2005)
+
+-------------------
+
+Se hara un analisis de los activos en los que se y tratar de atribuir en cuales activos pudo obtener el mayor rendimiento sin enfocarse en tantas opciones, por ejemplo, hicimos un analisis donde nuestro inversionista hizo la mayor parte de sus ganancias en 4 o 5 activos y los otros 25 activos en los que invirtio o perdio o genero minimas ganancias.
+
+-------------------
+
+Notas:
+- Parametros de analisis:
+  Activo
+  Posicion
+  
+d_salida: {'datos': df_datos, 'grafica': g_grafica}
