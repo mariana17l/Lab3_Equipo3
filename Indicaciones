@@ -7,6 +7,11 @@ Examples: 1). Fifty independent studies found a meaningful connection between ch
 
 Se hara un analisis de los activos en los que se y tratar de atribuir en cuales activos pudo obtener el mayor rendimiento sin enfocarse en tantas opciones, por ejemplo, hicimos un analisis donde nuestro inversionista hizo la mayor parte de sus ganancias en 4 o 5 activos y los otros 25 activos en los que invirtio o perdio o genero minimas ganancias.
 
+Tenemos que obtener datos atipicos para poder ignorarlos.
+Datos atipicos: Son los que habitualmente superna por 1.5 veces o mas el rango intercuatilico
+
+Necesario obtener un boxplot por instrumento y por periodo de tiempo
+
 -------------------
 
 Notas:
@@ -16,6 +21,8 @@ Notas:
   
 d_salida: {'datos': df_datos, 'grafica': g_grafica}
 
+-------------------
+
 ENCARGADOS DE DESARROLLO DE CÓDIGO
 MARIANA LOPEZ
 AXEL QUINTERO
@@ -24,7 +31,11 @@ ENCARGADOS DE PLOTLY (VISUALIZACIÓN DE DATOS)
 MARYSOL CANTARERO
 GASPAR BENITEZ
 
+-------------------
+
 MANUALES PLOTLY:
 https://plot.ly/python/v3/user-guide/
 https://plot.ly/python/plotly-fundamentals/
 https://www.youtube.com/watch?v=NPznsxeL3FM
+https://matplotlib.org/tutorials/introductory/pyplot.html
+https://towardsdatascience.com/matplotlib-tutorial-learn-basics-of-pythons-powerful-plotting-library-b5d1b8f67596
