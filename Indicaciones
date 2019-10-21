@@ -15,3 +15,16 @@ Notas:
   Posicion
   
 d_salida: {'datos': df_datos, 'grafica': g_grafica}
+
+ENCARGADOS DE DESARROLLO DE CÓDIGO
+MARIANA LOPEZ
+AXEL QUINTERO
+
+ENCARGADOS DE PLOTLY (VISUALIZACIÓN DE DATOS)
+MARYSOL CANTARERO
+GASPAR BENITEZ
+
+MANUALES PLOTLY:
+https://plot.ly/python/v3/user-guide/
+https://plot.ly/python/plotly-fundamentals/
+https://www.youtube.com/watch?v=NPznsxeL3FM
